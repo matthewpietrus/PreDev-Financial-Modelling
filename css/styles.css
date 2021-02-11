@@ -1,6 +1,9 @@
 h1 {
-  font-family: Arial;
-  font-size: 20px
+  font-family: Helvetica;
+  color: white;
+  font-size: 20px;
+  background-color: blue;
+  background-size: 200px;
 }
 
 h2 {
@@ -31,7 +34,7 @@ img {
 /* The slider itself */
 .slider {
  /* Override default CSS styles */
-  width: 25%; /* Full-width */
+  width: 50%; /* Full-width */
   height:50px; /* Specified height */
   background: #d3d3d3; /* Grey background */
   outline: none; /* Remove outline */
