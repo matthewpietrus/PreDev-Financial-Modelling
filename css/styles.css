@@ -31,7 +31,7 @@ img {
 /* The slider itself */
 .slider {
  /* Override default CSS styles */
-  width: 100%; /* Full-width */
+  width: 25%; /* Full-width */
   height:50px; /* Specified height */
   background: #d3d3d3; /* Grey background */
   outline: none; /* Remove outline */
