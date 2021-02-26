@@ -28,7 +28,7 @@ img {
   margin-right: auto;
 }
 .slidecontainer {
-  width: 50%; /* Width of the outside container */
+  width:100%; /* Width of the outside container */
 }
 
 /* The slider itself */
